@@ -69,8 +69,8 @@ Choose:
 
 Enter:
 Student ID: 101
-Student Name: Deva Prasath
-Email: deva@example.com
+Student Name: HEMASHRE 
+Email: HEMASHRE@example.com
 Course: B.Tech AI & DS
 
 Then choose:
@@ -80,8 +80,8 @@ Then:
 2. Update Student
 
 Student ID: 101
-New Name: Deva Prasath
-New Email: deva.updated@example.com
+New Name:HEMASHRE
+New Email: Email: HEMASHRE.updated@example.com
 New Course: B.Tech Artificial Intelligence and Data Science
 
 Then:
